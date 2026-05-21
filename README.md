@@ -1,27 +1,16 @@
-<!-- ============ HEADER ============ -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Keshav%20Kumar&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full-Stack%20Developer&descSize=18&descAlignY=58" width="100%" alt="header" />
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=26&duration=3000&pause=1200&color=808080&center=true&vCenter=true&width=520&height=48&lines=Keshav+Kumar;Full-Stack+Developer;AI+Application+Builder" alt="Keshav Kumar" />
+
+<p>
+  <a href="https://www.linkedin.com/in/keshav-kumar-1b73a122a/">LinkedIn</a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/Keshavkumar04">GitHub</a>
+</p>
+
 </div>
 
-<!-- ============ TYPING ============ -->
-<div align="center">
-  <a href="https://github.com/Keshavkumar04">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=8B5CF6&center=true&vCenter=true&width=560&height=44&lines=Full-Stack+Developer;AI+Application+Builder;Next.js+%C2%B7+React+%C2%B7+TypeScript+%C2%B7+Node.js" alt="Typing SVG" />
-  </a>
-</div>
-
-<!-- ============ SOCIALS ============ -->
-<div align="center">
-  <a href="https://www.linkedin.com/in/keshav-kumar-1b73a122a/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/Keshavkumar04">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</div>
-
-<br/>
+---
 
 ## About
 
@@ -51,7 +40,7 @@ const keshav = {
 | **[Code Council](https://github.com/Keshavkumar04/code_council)** | Multi-model AI code review — Claude + Gemini + GPT | — |
 | **[PptEditor](https://github.com/Keshavkumar04/ppteditor)** | An embeddable PowerPoint editor library for React | — |
 
-## Contribution Snake
+## Contributions
 
 <div align="center">
   <picture>
@@ -60,6 +49,3 @@ const keshav = {
     <img alt="contribution snake animation" src="https://raw.githubusercontent.com/Keshavkumar04/Keshavkumar04/output/github-snake.svg" />
   </picture>
 </div>
-
-<!-- ============ FOOTER ============ -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" alt="footer" />
