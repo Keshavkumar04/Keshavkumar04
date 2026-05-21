@@ -132,6 +132,13 @@ const keshav = {
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Keshavkumar04&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="activity graph" />
 </div>
 
+<!-- ====================================================================
+  🐍 SNAKE ANIMATION — currently disabled.
+  To enable: add the workflow file .github/workflows/snake.yml to this repo,
+  let the "Generate Contribution Snake" Action finish once, then remove the
+  opening "<!--" line above and the "-->" line below to reveal the section.
+=======================================================================
+
 ### 🐍 Watch My Contributions Get Eaten
 
 <div align="center">
@@ -141,6 +148,8 @@ const keshav = {
     <img alt="contribution snake animation" src="https://raw.githubusercontent.com/Keshavkumar04/Keshavkumar04/output/github-snake.svg" />
   </picture>
 </div>
+
+-->
 
 ---
 
