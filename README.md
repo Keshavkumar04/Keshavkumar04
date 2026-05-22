@@ -44,8 +44,8 @@ const keshav = {
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Keshavkumar04/Keshavkumar04/main/profile-3d-contrib/profile-3d-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Keshavkumar04/Keshavkumar04/main/profile-3d-contrib/profile-3d-light.svg" />
-    <img alt="3D contribution chart" src="https://raw.githubusercontent.com/Keshavkumar04/Keshavkumar04/main/profile-3d-contrib/profile-3d-light.svg" width="90%" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Keshavkumar04/Keshavkumar04/main/assets/robot-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Keshavkumar04/Keshavkumar04/main/assets/robot-light.svg" />
+    <img alt="A robot clearing the contribution graph" src="https://raw.githubusercontent.com/Keshavkumar04/Keshavkumar04/main/assets/robot-light.svg" width="92%" />
   </picture>
 </div>
